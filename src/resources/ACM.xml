@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!--
+    Document   : ACM.xml.xml
+    Created on : March 16, 2012, 6:32 PM
+    Author     : toraj
+    Description:
+        Purpose of the document follows.
+-->
+<acm >
+    <abstract aggregation="main">Architectural</abstract>
+    <abstract aggregation="and">Constraint</abstract>
+    <abstract aggregation="or">Google</abstract>
+    <title aggregation="main">Evolution</title>
+    <!--<title aggregation="and">yahoo</title> -->
+    <title aggregation="or">Change</title>
+    
+
+</acm>
